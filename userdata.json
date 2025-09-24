@@ -1,30 +1,30 @@
 [
     {
-        "device_id": "902ff0f2bc1952cd",
+        "device_id": "18bf1e69e104feb7",
         "key": "Lagtest2",
         "expirydate": "13-09-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "b0033581e6cf4503",
+        "device_id": "18bf1e69e104feb7",
         "key": "TestKingRemaKey",
         "expirydate": "12-09-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "902ff0f2bc1952cd",
+        "device_id": "18bf1e69e104feb7",
         "key": "Lagtes",
         "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "de01e0080a83107f",
+        "device_id": "18bf1e69e104feb7",
         "key": "MonthKeyLagCFG",
         "expirydate": "03-10-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "9d2964ea09e15ec7",
+        "device_id": "18bf1e69e104feb7",
         "key": "LagCFGMonthKey",
         "expirydate": "30-09-2025",
         "Allowoffline": false
